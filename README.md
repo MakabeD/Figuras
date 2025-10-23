@@ -11,7 +11,7 @@ Este proyecto muestra cómo implementar los **principios fundamentales de POO** 
 El usuario puede seleccionar el tipo de figura, su color, tamaño y posición para dibujarla sobre un lienzo interactivo.
 
 El formulario **no crea las figuras directamente con `new`**, sino que utiliza una clase **Factory** que se encarga de la instanciación, cumpliendo así con buenas prácticas de arquitectura.
-
+- No sobra mencionar que tuve que migrar el proyecto, ya que me di cuenta de que el uso de git era clave.
 ---
 
 ##  Características principales
@@ -57,7 +57,8 @@ Ejemplo:
 ```csharp
 Figura figura = FiguraFactory.Create(tipo, x, y, tamaño, color);
 ```
-
+## Menciones honorificas:
+- IA: Me salvo en momentos oscuros (como a la hora de crear la clase y poner bonito el README)
 ## Capturas de los casos de prueba 
 ![alt text](imagenes/image.png)
 ----
