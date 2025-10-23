@@ -59,4 +59,18 @@ Figura figura = FiguraFactory.Create(tipo, x, y, tamaño, color);
 ```
 
 ## Capturas de los casos de prueba 
+![alt text](imagenes/image.png)
+----
+![alt text](imagenes/image-1.png)
+-------
+![alt text](imagenes/image-2.png)
+-----
+![alt text](imagenes/image-3.png)
+----
+![alt text](imagenes/image-4.png)
+# No permite dejar el cero
+![alt text](imagenes/image-5.png)
+# mensaje a la perfeccion
+![alt text](imagenes/image-6.png)
 
+![alt text](imagenes/image-7.png)
