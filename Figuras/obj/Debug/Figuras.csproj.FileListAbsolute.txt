@@ -1,0 +1,9 @@
+C:\Users\danie\source\repos\Figuras\Figuras\bin\Debug\Figuras.exe.config
+C:\Users\danie\source\repos\Figuras\Figuras\bin\Debug\Figuras.exe
+C:\Users\danie\source\repos\Figuras\Figuras\bin\Debug\Figuras.pdb
+C:\Users\danie\source\repos\Figuras\Figuras\obj\Debug\Figuras.csproj.AssemblyReference.cache
+C:\Users\danie\source\repos\Figuras\Figuras\obj\Debug\Figuras.Properties.Resources.resources
+C:\Users\danie\source\repos\Figuras\Figuras\obj\Debug\Figuras.csproj.GenerateResource.cache
+C:\Users\danie\source\repos\Figuras\Figuras\obj\Debug\Figuras.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\Figuras\Figuras\obj\Debug\Figuras.exe
+C:\Users\danie\source\repos\Figuras\Figuras\obj\Debug\Figuras.pdb
