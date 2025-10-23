@@ -32,8 +32,15 @@ namespace Figuras
                 g.DrawPolygon(pen, pts);
             }
         }
+        public override Rectangle GetBoundingBox()
+        {
+            //ajustando bounding box para la altura real
+            int height = (int)(Tam * 0.7);
+            int halfW = Tam / 2;
+            return new Rectangle(X - halfW, Y - height / 2, Tam, height);
+        }
 
-        
+
     }
 }
 
