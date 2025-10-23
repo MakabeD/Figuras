@@ -7,3 +7,4 @@ C:\Users\danie\source\repos\Figuras\Figuras\obj\Debug\Figuras.csproj.GenerateRes
 C:\Users\danie\source\repos\Figuras\Figuras\obj\Debug\Figuras.csproj.CoreCompileInputs.cache
 C:\Users\danie\source\repos\Figuras\Figuras\obj\Debug\Figuras.exe
 C:\Users\danie\source\repos\Figuras\Figuras\obj\Debug\Figuras.pdb
+C:\Users\danie\source\repos\Figuras\Figuras\obj\Debug\Figuras.exe.config
